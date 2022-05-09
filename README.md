@@ -1,7 +1,7 @@
 <h1 align="center">Olá!!! Eu sou o Rafael Carvalho, programador full stack 👋
 </h1>
 
-- 🌱 Sou aluno do Atualmente estou aprendendo Node JS e Django
+- 🌱 Sou aluno da Kenzie Academy Brasil e atualmente estou aprendendo Node JS e Django
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
