@@ -40,7 +40,7 @@
 
 </style>
 
-<h1 style="text-align: center">Olá!!! Eu sou o Rafael Carvalho, programador full stack 👋
+<h1 align="center">Olá!!! Eu sou o Rafael Carvalho, programador full stack 👋
 </h1>
 
 - 🌱 Atualmente estou aprendendo Node JS e Django
