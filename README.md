@@ -1,7 +1,4 @@
 <style>
-  .title {
-    text-align: center;
-  }
 
   .flask {
     background-color: #fff;
@@ -43,7 +40,8 @@
 
 </style>
 
-# Olá!!! Eu sou o Rafael Carvalho, programador full stack 👋 {#identifier .title}
+<h1 style="text-align: center">Olá!!! Eu sou o Rafael Carvalho, programador full stack 👋
+</h1>
 
 - 🌱 Atualmente estou aprendendo Node JS e Django
 - 😄 Pronouns: Ele/Dele
