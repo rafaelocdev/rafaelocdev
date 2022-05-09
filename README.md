@@ -1,15 +1,14 @@
-<h1 style="text-align: center">Olá!!! Eu sou o Rafael Carvalho, programador full stack 👋
+<h1 align="center">Olá!!! Eu sou o Rafael Carvalho, programador full stack 👋
 </h1>
 
 - 🌱 Atualmente estou aprendendo Node JS e Django
 - 😄 Pronouns: Ele/Dele
 
-<a href="https://github.com/rafaelocdev">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%">
+  <div align="center>
+    <a href="https://github.com/rafaelocdev">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelocdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelocdev&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
-</a>
 
 <div style="display: flex; gap: 10px; justify-content: center; margin: 30px 0">
   <img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
