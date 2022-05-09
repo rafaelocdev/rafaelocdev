@@ -26,10 +26,10 @@
 
 ##
 
-<div class="social" style="display: flex; gap: 20px; justify-content: center"> 
-  <a href="mailto:rafaeloc.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a href="mailto:rafaeloc.dev@gmail.com" target="_blank"><img height="30" width="calc(fit-content + 10px)" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaelo-oliveira-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="[mailto:rafaeloc.dev@gmail.com](https://www.codewars.com/users/rafaelcarvalho)" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>  
+  <a href="https://www.codewars.com/users/rafaelcarvalho" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>  
 </div>
 
 ![Snake animation](https://github.com/rafaelocdev/rafaelocdev/blob/output/github-contribution-grid-snake.svg)
